@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">RecyclerViewRecap</string>
+    <string name="app_name">StarterOne</string>
+    <string name="main_highlight">Recycler View</string>
+    <string name="buttonMainText">Click me</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ArgsKeyTestText">TextToPass</string>
+    <string name="ArgsSafePassedTextExample">textToPass</string>
 </resources>
