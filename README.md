@@ -1,4 +1,4 @@
-# starter-one
+# Starter XML One
 
 A simple Android XML project with to screens and the following libraries:
 * Hilt,
